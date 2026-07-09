@@ -12,3 +12,8 @@ Student ID : 6039010023
 - College : Hatyai Technical College
 - Program : Information Technology
 - Year : Vocational Certificate (Voc. Cert.3)
+
+# Career Goals
+- Become a Software Developer
+- Learn DevOps
+- Learn Docker
