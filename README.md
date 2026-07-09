@@ -7,3 +7,8 @@ Student ID : 6039010023
 - Html
 - Coding
 - Gamer
+
+# Education
+- College : Hatyai Technical College
+- Program : Information Technology
+- Year : Vocational Certificate (Voc. Cert.3)
