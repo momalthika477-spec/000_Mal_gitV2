@@ -21,4 +21,4 @@ Student ID : 6039010023
 # My Hobby
 - Reading
 - Coding
-- Music
+- Anime
